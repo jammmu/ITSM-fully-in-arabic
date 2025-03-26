@@ -1,0 +1,207 @@
+C:\Users\PC\Desktop\New folder\ITDashboard\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\PC\Desktop\New folder\ITDashboard\bin\Debug\net9.0\appsettings.json
+C:\Users\PC\Desktop\New folder\ITDashboard\bin\Debug\net9.0\ITDashboard.staticwebassets.runtime.json
+C:\Users\PC\Desktop\New folder\ITDashboard\bin\Debug\net9.0\ITDashboard.staticwebassets.endpoints.json
+C:\Users\PC\Desktop\New folder\ITDashboard\bin\Debug\net9.0\ITDashboard.exe
+C:\Users\PC\Desktop\New folder\ITDashboard\bin\Debug\net9.0\ITDashboard.deps.json
+C:\Users\PC\Desktop\New folder\ITDashboard\bin\Debug\net9.0\ITDashboard.runtimeconfig.json
+C:\Users\PC\Desktop\New folder\ITDashboard\bin\Debug\net9.0\ITDashboard.dll
+C:\Users\PC\Desktop\New folder\ITDashboard\bin\Debug\net9.0\ITDashboard.pdb
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\ITDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\ITDashboard.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\ITDashboard.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\ITDashboard.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\ITDashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\ITDashboard.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\ITDashboard.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\scopedcss\bundle\ITDashboard.styles.css
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\scopedcss\projectbundle\ITDashboard.bundle.scp.css
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\efsdnwqlmi-p31ywf8lm4.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\w0pe9493ey-61n19gt1b8.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\yszwo0lmbf-xtxxf3hu2r.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\4kj11dn15s-bqjiyaj88i.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\zkwbluewb2-c2jlpeoesf.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\bm9qf39qkk-erw9l3u2r3.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\psdnni29wk-aexeepp0ev.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\tkpkivyg0n-d7shbmvgxk.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\7yogglyt0h-ausgxo2sd3.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\f7ilfneayr-k8d9w2qqmf.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\07xckgvd1d-cosvhxvwiu.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\xozi3ic5az-ub07r2b239.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\one1mteii8-fvhpjtyr6v.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\woaivgtbpn-b7pk76d08c.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\y1sm2rxjrx-fsbi9cje9m.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\h6dp7n77ww-rzd6atqjts.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\ida3v3933l-ee0r1s7dh0.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\hnkwxume6o-dxx9fxp4il.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\zkqa6o1c9i-jd9uben2k1.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\2klrfl5ph7-khv3u5hwcm.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\qrrdm6eyro-r4e9w2rdcm.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\psrbwl7j52-lcd1t2u6c8.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\2lsrbz91w3-c2oey78nd0.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\ykd7a9poh5-tdbxkamptv.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\lo3pk0so4h-j5mq2jizvt.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\oida0junnp-06098lyss8.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\uoy09wip88-nvvlpmu67g.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\z20gxdym2l-s35ty4nyc5.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\ednmdlmag8-pj5nd1wqec.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\f52i75j5z0-46ein0sx1k.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\0h2ij67vx3-v0zj4ognzu.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\abziujk88d-37tfw0ft22.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\3ddc57odos-hrwsygsryq.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\6rz6cu2poq-pk9g2wxc8p.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\t9lcnfwxrb-ft3s53vfgj.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\pml9ap0ex1-6cfz1n2cew.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\ouv18ykt3i-6pdc2jztkx.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\msxyid2xlk-493y06b0oq.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\slvaqjqc1f-iovd86k7lj.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\gf5e2k2sm0-vr1egmr9el.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\j6zqbes8zk-kbrnm935zg.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\f879xkgjwp-jj8uyg4cgr.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\wc1mkedjkt-y7v9cxd14o.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\tve4zrwa54-notf2xhcfb.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\o7gre01ycs-h1s4sie4z3.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\6n2wly3e9a-63fj8s7r0e.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\ftsrrcgx91-0j3bgjxly4.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\heb0y0qsiw-47otxtyo56.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\fley0iv6jc-4v8eqarkd7.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\zurl4ck3h9-356vix0kms.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\a7383vica8-83jwlth58m.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\rj5op4sunz-mrlpezrjn3.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\9v6jj53dt7-lzl9nlhx6b.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\d36ong3bm5-ag7o75518u.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\slct9bjvwt-x0q3zqp4vz.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\9yt95vkq0f-0i3buxo5is.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\ryiiekue7e-o1o13a6vjx.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\ibc4pgkvfn-ttgo8qnofa.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\ngiszfdjmi-2z0ns9nrw6.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\xfeupwfkbd-muycvpuwrr.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\ceyw8yqfbz-87fc7y1x7t.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\u4cuo01h1s-mlv21k5csn.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\qa3q8iqruo-1nwi1xicnp.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\compressed\c6xfjufa5v-1nwi1xicnp.gz
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\staticwebassets\msbuild.ITDashboard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\staticwebassets\msbuild.ITDashboard.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\staticwebassets\msbuild.build.ITDashboard.props
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ITDashboard.props
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ITDashboard.props
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\ITDashboard.dll
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\refint\ITDashboard.dll
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\ITDashboard.pdb
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\ITDashboard.genruntimeconfig.cache
+C:\Users\PC\Desktop\New folder\ITDashboard\obj\Debug\net9.0\ref\ITDashboard.dll
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\bin\Debug\net9.0\appsettings.json
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\bin\Debug\net9.0\package-lock.json
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\bin\Debug\net9.0\package.json
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\bin\Debug\net9.0\ITDashboard.staticwebassets.runtime.json
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\bin\Debug\net9.0\ITDashboard.staticwebassets.endpoints.json
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\bin\Debug\net9.0\ITDashboard.exe
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\bin\Debug\net9.0\ITDashboard.deps.json
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\bin\Debug\net9.0\ITDashboard.runtimeconfig.json
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\bin\Debug\net9.0\ITDashboard.dll
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\bin\Debug\net9.0\ITDashboard.pdb
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\ITDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\ITDashboard.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\ITDashboard.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\ITDashboard.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\ITDashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\ITDashboard.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\ITDashboard.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\scopedcss\bundle\ITDashboard.styles.css
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\scopedcss\projectbundle\ITDashboard.bundle.scp.css
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\efsdnwqlmi-p31ywf8lm4.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\w0pe9493ey-61n19gt1b8.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\yszwo0lmbf-xtxxf3hu2r.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\4kj11dn15s-bqjiyaj88i.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\zkwbluewb2-c2jlpeoesf.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\bm9qf39qkk-erw9l3u2r3.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\psdnni29wk-aexeepp0ev.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\tkpkivyg0n-d7shbmvgxk.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\7yogglyt0h-ausgxo2sd3.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\f7ilfneayr-k8d9w2qqmf.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\07xckgvd1d-cosvhxvwiu.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\xozi3ic5az-ub07r2b239.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\one1mteii8-fvhpjtyr6v.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\woaivgtbpn-b7pk76d08c.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\y1sm2rxjrx-fsbi9cje9m.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\h6dp7n77ww-rzd6atqjts.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\ida3v3933l-ee0r1s7dh0.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\hnkwxume6o-dxx9fxp4il.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\zkqa6o1c9i-jd9uben2k1.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\2klrfl5ph7-khv3u5hwcm.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\qrrdm6eyro-r4e9w2rdcm.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\psrbwl7j52-lcd1t2u6c8.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\2lsrbz91w3-c2oey78nd0.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\ykd7a9poh5-tdbxkamptv.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\lo3pk0so4h-j5mq2jizvt.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\oida0junnp-06098lyss8.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\uoy09wip88-nvvlpmu67g.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\z20gxdym2l-s35ty4nyc5.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\ednmdlmag8-pj5nd1wqec.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\f52i75j5z0-46ein0sx1k.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\0h2ij67vx3-v0zj4ognzu.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\abziujk88d-37tfw0ft22.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\3ddc57odos-hrwsygsryq.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\6rz6cu2poq-pk9g2wxc8p.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\t9lcnfwxrb-ft3s53vfgj.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\pml9ap0ex1-6cfz1n2cew.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\ouv18ykt3i-6pdc2jztkx.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\msxyid2xlk-493y06b0oq.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\slvaqjqc1f-iovd86k7lj.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\gf5e2k2sm0-vr1egmr9el.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\j6zqbes8zk-kbrnm935zg.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\f879xkgjwp-jj8uyg4cgr.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\wc1mkedjkt-y7v9cxd14o.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\tve4zrwa54-notf2xhcfb.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\o7gre01ycs-h1s4sie4z3.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\6n2wly3e9a-63fj8s7r0e.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\ftsrrcgx91-0j3bgjxly4.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\fyz9b37814-or1b6mr6li.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\st6ce3qu8w-8r22aftnru.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\9pl5969fo6-4flpz0vzv9.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\pvp9jx37j6-cset4f2sao.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\3n3t0u0s83-q59myhprat.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\w9uzv1nsqu-wrxry8aw4s.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\468fp5mvu4-5rh4fbekqh.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\d60go63bdz-qyn8fn18j2.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\a6gn0xt9sk-g0o4588csz.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\whyxgbltui-e51up8v73y.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\21byxgny7y-p7rq9v56be.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\heb0y0qsiw-47otxtyo56.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\fley0iv6jc-4v8eqarkd7.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\zurl4ck3h9-356vix0kms.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\a7383vica8-83jwlth58m.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\rj5op4sunz-mrlpezrjn3.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\9v6jj53dt7-lzl9nlhx6b.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\d36ong3bm5-ag7o75518u.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\slct9bjvwt-x0q3zqp4vz.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\9yt95vkq0f-0i3buxo5is.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\ryiiekue7e-o1o13a6vjx.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\ibc4pgkvfn-ttgo8qnofa.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\ngiszfdjmi-2z0ns9nrw6.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\xfeupwfkbd-muycvpuwrr.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\ceyw8yqfbz-87fc7y1x7t.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\u4cuo01h1s-mlv21k5csn.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\qa3q8iqruo-1nwi1xicnp.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\compressed\c6xfjufa5v-1nwi1xicnp.gz
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\staticwebassets\msbuild.ITDashboard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\staticwebassets\msbuild.ITDashboard.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\staticwebassets\msbuild.build.ITDashboard.props
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ITDashboard.props
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ITDashboard.props
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\ITDashboard.dll
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\refint\ITDashboard.dll
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\ITDashboard.pdb
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\ITDashboard.genruntimeconfig.cache
+C:\Users\PC\Desktop\New folder\ITDashboard working with no login\ITDashboard\obj\Debug\net9.0\ref\ITDashboard.dll

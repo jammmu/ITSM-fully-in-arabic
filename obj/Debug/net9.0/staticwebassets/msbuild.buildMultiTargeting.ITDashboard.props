@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ITDashboard.props" />
+</Project>

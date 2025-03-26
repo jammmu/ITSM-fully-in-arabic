@@ -1,0 +1,125 @@
+﻿@{
+    ViewData["Title"] = "الصفحة الرئيسية";
+}
+
+<div class="text-center mb-5">
+    <h1 class="display-4">لوحة تحكم قسم تكنولوجيا المعلومات</h1>
+    <p class="lead">نظام شامل لإدارة موارد وخدمات قسم تكنولوجيا المعلومات</p>
+</div>
+
+<div class="row">
+    <!-- إدارة المخزون -->
+    <div class="col-md-6 col-lg-3 mb-4">
+        <div class="dashboard-card">
+            <div class="dashboard-card-header">
+                <i class="bi bi-box-seam"></i> إدارة المخزون
+            </div>
+            <div class="dashboard-card-body">
+                <p>إدارة مخزون الأجهزة والبرمجيات مع تتبع تفاصيل المنتجات وإشعارات المخزون المنخفض.</p>
+                <a asp-controller="Inventory" asp-action="Index" class="btn btn-primary-custom w-100">فتح النظام</a>
+            </div>
+        </div>
+    </div>
+    
+    <!-- إدارة الأصول -->
+    <div class="col-md-6 col-lg-3 mb-4">
+        <div class="dashboard-card">
+            <div class="dashboard-card-header">
+                <i class="bi bi-laptop"></i> إدارة الأصول
+            </div>
+            <div class="dashboard-card-body">
+                <p>تتبع دورة حياة جميع أصول تكنولوجيا المعلومات مع جدولة الصيانة وحسابات الاستهلاك.</p>
+                <a asp-controller="Asset" asp-action="Index" class="btn btn-primary-custom w-100">فتح النظام</a>
+            </div>
+        </div>
+    </div>
+    
+    <!-- نظام التذاكر -->
+    <div class="col-md-6 col-lg-3 mb-4">
+        <div class="dashboard-card">
+            <div class="dashboard-card-header">
+                <i class="bi bi-ticket-perforated"></i> نظام التذاكر
+            </div>
+            <div class="dashboard-card-body">
+                <p>إنشاء وإدارة تذاكر الدعم مع مستويات الأولوية وتتبع الامتثال لاتفاقية مستوى الخدمة.</p>
+                <a asp-controller="Ticket" asp-action="Index" class="btn btn-primary-custom w-100">فتح النظام</a>
+            </div>
+        </div>
+    </div>
+    
+    <!-- التحليلات -->
+    <div class="col-md-6 col-lg-3 mb-4">
+        <div class="dashboard-card">
+            <div class="dashboard-card-header">
+                <i class="bi bi-graph-up"></i> التحليلات
+            </div>
+            <div class="dashboard-card-body">
+                <p>عرض مؤشرات الأداء الرئيسية في الوقت الفعلي وتقارير مخصصة للإدارة وتحليلات تنبؤية.</p>
+                <a asp-controller="Analytics" asp-action="Index" class="btn btn-primary-custom w-100">فتح النظام</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-md-6">
+        <div class="dashboard-card">
+            <div class="dashboard-card-header">
+                <i class="bi bi-bell"></i> آخر التنبيهات
+            </div>
+            <div class="dashboard-card-body">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        مخزون منخفض: أجهزة لابتوب HP ProBook
+                        <span class="badge bg-warning rounded-pill">تحذير</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        صيانة مجدولة: خوادم قاعدة البيانات
+                        <span class="badge bg-info rounded-pill">مجدول</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        تذكرة متأخرة: #1234 - مشكلة في الشبكة
+                        <span class="badge bg-danger rounded-pill">متأخر</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-6">
+        <div class="dashboard-card">
+            <div class="dashboard-card-header">
+                <i class="bi bi-speedometer2"></i> مؤشرات الأداء الرئيسية
+            </div>
+            <div class="dashboard-card-body">
+                <div class="mb-3">
+                    <label class="form-label d-flex justify-content-between">
+                        متوسط وقت حل التذاكر
+                        <small>4.2 ساعة</small>
+                    </label>
+                    <div class="progress">
+                        <div class="progress-bar bg-success" role="progressbar" style="width: 85%"></div>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label d-flex justify-content-between">
+                        نسبة رضا العملاء
+                        <small>92%</small>
+                    </label>
+                    <div class="progress">
+                        <div class="progress-bar bg-primary" role="progressbar" style="width: 92%"></div>
+                    </div>
+                </div>
+                <div>
+                    <label class="form-label d-flex justify-content-between">
+                        استخدام الموارد
+                        <small>68%</small>
+                    </label>
+                    <div class="progress">
+                        <div class="progress-bar bg-info" role="progressbar" style="width: 68%"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
