@@ -1,4 +1,6 @@
-[![Screenshot-1.png](https://i.postimg.cc/WtLSNxKV/Screenshot-1.png)](https://postimg.cc/gLs34tmt)
+[![Screenshot-1.jpg](https://i.postimg.cc/XY2HF1Bf/Screenshot-1.jpg)](https://postimg.cc/68vfx00q)
+
+
 نظام ادراة قسم تقنية المعلومات بالمؤسسات مبني علي ASP.NET Core سأشرح تخصصات المشروع.
 
 المشروع هو لوحة تحكم لإدارة قسم تكنولوجيا المعلومات. يهدف المشروع إلى توفير واجهة مركزية لإدارة جوانب مختلفة من قسم تكنولوجيا المعلومات، بما في ذلك:
