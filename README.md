@@ -1,4 +1,4 @@
-[![Screenshot-1.jpg](https://i.postimg.cc/XY2HF1Bf/Screenshot-1.jpg)](https://postimg.cc/68vfx00q)
+[![Screenshot-1.jpg](https://i.postimg.cc/XY2HF1Bf/Screenshot-1.jpg)]
 
 
 نظام ادراة قسم تقنية المعلومات بالمؤسسات مبني علي ASP.NET Core سأشرح تخصصات المشروع.
