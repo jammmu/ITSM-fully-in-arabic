@@ -1,4 +1,12 @@
-![Screenshot-1.jpg](https://i.postimg.cc/XY2HF1Bf/Screenshot-1.jpg)
+###  التحديتاث مستمرة :) 
+
+![Screenshot-1.jpg](https://i.postimg.cc/wT3c16FP/screenshot-20250330093808.png)
+
+![Screenshot-1.jpg](https://i.postimg.cc/Gpnkgvrw/screenshot-20250330093827.png)
+
+![Screenshot-1.jpg](https://i.postimg.cc/7L1SFbYC/screenshot-20250330093902.png)
+
+![Screenshot-1.jpg](https://i.postimg.cc/TwRnfGpt/screenshot-20250330093429.png)
 
 
 نظام ادراة قسم تقنية المعلومات بالمؤسسات مبني علي ASP.NET Core سأشرح تخصصات المشروع.
